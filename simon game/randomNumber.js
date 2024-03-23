@@ -1,0 +1,1 @@
+var randomNumber = (function (nextSequence) {})();
